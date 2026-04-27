@@ -1,6 +1,8 @@
 # WGBS-and-RNAseq-analysis-of-potato-leaves
 WGBS and RNAseq analysis of potato leaves
 
+The RNAseq code has not been uploaded yet..
+
 Scripts associated with the publication:
 Genotype‐dependent DNA methylation patterns are negatively associated with allelic variation rather than heat‐induced gene expression in two contrasting potato genotypes.
 The Plant Journal, 125(2), e70690.
